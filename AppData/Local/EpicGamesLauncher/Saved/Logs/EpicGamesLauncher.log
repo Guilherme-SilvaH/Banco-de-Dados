@@ -1,0 +1,354 @@
+﻿Log file open, 11/25/23 17:47:43
+AppSettings: Version: 15.18.1-29747304+++Portal+Release-Live
+AppSettings: CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/EpicGamesLauncher.exe"  -SaveToUserDir -Messaging -enablehighdpi  -silent   -selfupdate -ForcedRestart -ForcedRestart
+AppSettings: RunningCommandlet: false
+AppSettings: ForwardMessage: false
+AppSettings: ForcedRestart: true
+AppSettings: bAllowMultipleInstances: false
+AppSettings: bBootstrap: false
+AppSettings: bSilent: true
+AppSettings: bForceDeprecated: false
+AppSettings: bDoesCompiledPlatformMatch: true
+AppSettings: bIsUnattended: false
+AppSettings: bAllowFullAppTesting: false
+AppSettings: bIsExecutingAutomation: false
+AppSettings: Mode: default
+LogInit: WinPlatform: User is admin: true
+LogInit: WinPlatform: Process ran as admin: false
+LogInit: WinPlatform: Process is elevated: false
+LogInit: WinPlatform: Process integrity level: Medium
+LogInit: WinPlatform: Running 64bit App: true
+LogInit: WinPlatform: Running 64bit OS: true
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 9 total threads with 1 sets of task threads.
+LogConfig: Display: FConfigCacheIni::GetString failed to find Filename 
+LogConfig: Display: FConfigCacheIni::GetString failed to find Filename 
+LogConfig: Display: FConfigCacheIni::GetString failed to find Filename 
+LogConfig: Display: FConfigCacheIni::GetString failed to find Filename 
+LogConfig: Display: FConfigCacheIni::GetString failed to find Filename 
+LogConfig: Display: FConfigCacheIni::GetString failed to find Filename 
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogConfig: Display: FConfigCacheIni::GetString failed to find Filename 
+LogConfig: Display: FConfigCacheIni::GetString failed to find Filename 
+LogInit: Build: 15.18.1-29747304+++Portal+Release-Live
+LogInit: Engine Version: 4.27.0-29747304+++Portal+Release-Live
+LogInit: Compatible Engine Version: 4.27.0-29747304+++Portal+Release-Live
+LogInit: Net CL: 29747304
+LogInit: OS: Windows 11 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8600 CPU @ 3.10GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Nov 15 2023 16:14:06
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Portal+Release-Live
+LogInit: Command Line: "C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/EpicGamesLauncher.exe"  -SaveToUserDir -Messaging -enablehighdpi  -silent   -selfupdate -ForcedRestart -ForcedRestart
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/guihe/AppData/Local/EpicGamesLauncher/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/guihe/AppData/Local/EpicGamesLauncher/Saved/Config/Windows/Engine.ini]
+[2023.11.25-20.47.43:148][  0]LogInit: Computer: DESKTOP-3D61FSQ
+[2023.11.25-20.47.43:148][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.11.25-20.47.43:148][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.11.25-20.47.43:148][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2023.11.25-20.47.43:148][  0]LogMemory: Platform Memory Stats for Windows
+[2023.11.25-20.47.43:148][  0]LogMemory: Process Physical Memory: 37.77 MB used, 37.77 MB peak
+[2023.11.25-20.47.43:148][  0]LogMemory: Process Virtual Memory: 54.66 MB used, 54.66 MB peak
+[2023.11.25-20.47.43:148][  0]LogMemory: Physical Memory: 5917.12 MB used,  6307.08 MB free, 12224.20 MB total
+[2023.11.25-20.47.43:148][  0]LogMemory: Virtual Memory: 134209592.00 MB used,  8136.88 MB free, 134217728.00 MB total
+[2023.11.25-20.47.43:154][  0]LogAssetRegistry: FAssetRegistry took 0.0000 seconds to start up
+[2023.11.25-20.47.43:155][  0]LogUObjectArray: 853 objects as part of root set at end of initial load.
+[2023.11.25-20.47.43:155][  0]LogUObjectAllocator: 168144 out of 0 bytes used by permanent object pool.
+[2023.11.25-20.47.43:155][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.11.25-20.47.43:155][  0]LogInit: Using OS detected language (en-US).
+[2023.11.25-20.47.43:155][  0]LogInit: Using OS detected locale (en-US).
+[2023.11.25-20.47.43:155][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.11.25-20.47.43:156][  0]LogInit: Using OS detected language (en-US).
+[2023.11.25-20.47.43:156][  0]LogInit: Using OS detected locale (en-US).
+[2023.11.25-20.47.43:156][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.11.25-20.47.43:158][  0]LogTextLocalizationManager: Compacting localization data took   0.08ms
+[2023.11.25-20.47.43:158][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000050 seconds
+[2023.11.25-20.47.43:162][  0]LogTaskGraph: Started task graph with 4 named threads and 9 total threads with 1 sets of task threads.
+[2023.11.25-20.47.43:180][  0]LogInit: Using libcurl 7.55.1-DEV
+[2023.11.25-20.47.43:180][  0]LogInit:  - built for x86_64-pc-win32
+[2023.11.25-20.47.43:180][  0]LogInit:  - supports SSL with OpenSSL/1.1.1
+[2023.11.25-20.47.43:180][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2023.11.25-20.47.43:180][  0]LogInit:  - other features:
+[2023.11.25-20.47.43:181][  0]LogInit:      CURL_VERSION_SSL
+[2023.11.25-20.47.43:181][  0]LogInit:      CURL_VERSION_LIBZ
+[2023.11.25-20.47.43:181][  0]LogInit:      CURL_VERSION_IPV6
+[2023.11.25-20.47.43:181][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2023.11.25-20.47.43:181][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2023.11.25-20.47.43:181][  0]LogInit:      CURL_VERSION_IDN
+[2023.11.25-20.47.43:181][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2023.11.25-20.47.43:181][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2023.11.25-20.47.43:181][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2023.11.25-20.47.43:181][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2023.11.25-20.47.43:181][  0]LogInit:  - MaxHostConnections = 0  - Libcurl will NOT limit the number of connections to a host
+[2023.11.25-20.47.43:181][  0]LogInit:  - LocalHostAddr = Default
+[2023.11.25-20.47.43:181][  0]LogInit:  - BufferSize = 524288
+[2023.11.25-20.47.43:192][  0]LogAnalytics: Display: [UnrealEngineLauncher.Release] APIServer = https://datarouter.ol.epicgames.com. AppVersion = 15.18.1-29747304+++Portal+Release-Live
+[2023.11.25-20.47.43:282][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.25-20.47.43:310][  0]LogSlate: Using FreeType 2.10.0
+[2023.11.25-20.47.43:310][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.11.25-20.47.43:312][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.11.25-20.47.43:312][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.11.25-20.47.43:318][  0]LogWindows: EnumDisplayDevices:
+[2023.11.25-20.47.43:318][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2023.11.25-20.47.43:318][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2023.11.25-20.47.43:318][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2023.11.25-20.47.43:318][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2023.11.25-20.47.43:318][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.11.25-20.47.43:449][  0]Portal: Constructing App Data Access Layer
+[2023.11.25-20.47.43:450][  0]LogBuildInfoRepository: Using LauncherLabel Live-HighlandWarrior
+[2023.11.25-20.47.43:451][  0]LogEmsContentProvider: PrimeEms - Priming 584 Ems files from C:/Program Files (x86)/Epic Games/Launcher/Portal/SysFiles/
+[2023.11.25-20.47.44:092][  0]BuildPatchServicesModule: 'C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/current' file is absent or can't be loaded.
+[2023.11.25-20.47.44:092][  0]LogSelfUpdateService: Initialising for EpicGamesLauncher:EpicGamesLauncher:EpicGamesLauncher:15.18.1-29747304+++Portal+Release-Live-Windows.
+[2023.11.25-20.47.44:547][  0]BuildPatchServicesModule: 'C:/ProgramData/Epic/EpicGamesLauncher/Data/LauncherUpdate.manifest' file is absent or can't be loaded.
+[2023.11.25-20.47.44:547][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/OverlayPath already set to value: C:/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay
+[2023.11.25-20.47.44:547][  0]WinReg: Registry key: SOFTWARE\Khronos\Vulkan\ImplicitLayers/C:\Program Files (x86)\Epic Games\Launcher\Portal\Extras\Overlay\EOSOverlayVkLayer-Win32.json already set to value: 0
+[2023.11.25-20.47.44:548][  0]WinReg: Registry key: SOFTWARE\Khronos\Vulkan\ImplicitLayers/C:\Program Files (x86)\Epic Games\Launcher\Portal\Extras\Overlay\EOSOverlayVkLayer-Win64.json already set to value: 0
+[2023.11.25-20.47.44:548][  0]LogOverlayUpdater: FEpicOverlayUpdater::Initialize Overlay Ownership: LAUNCHER Overlay path: C:/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay EOS Installed State: True
+[2023.11.25-20.47.44:563][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/ModSdkAppToCheck already set to value: EpicGamesLauncher.exe
+[2023.11.25-20.47.44:563][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/ModSdkCommand already set to value: C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/EpicGamesLauncher.exe
+[2023.11.25-20.47.44:563][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/ModSdkArguments already set to value: -ApplicationMode=ModSdk
+[2023.11.25-20.47.44:563][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/ModSdkMetadataDir already set to value: C:/ProgramData/Epic/EpicGamesLauncher/Data/Manifests
+[2023.11.25-20.47.44:568][  0]LogGeForceNowManager: GeForceNow SDK initialized: 1
+[2023.11.25-20.47.44:568][  0]LogGeForceNowManager: GeForceNow SDK is running in cloud state: false
+[2023.11.25-20.47.44:568][  0]Portal: Constructing App Domain Layer
+[2023.11.25-20.47.44:570][  0]LogInit: Startup::ClearAllChecks
+[2023.11.25-20.47.44:570][  0]FAccountService::AutoSignIn
+[2023.11.25-20.47.44:570][  0]LogOnlineIdentity: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=refresh, id=[REDACTED]
+[2023.11.25-20.47.44:580][  0]LogWebBrowser: Registering ContextId=TEMP.
+[2023.11.25-20.47.44:586][  0]FCommunityPortalWinPlatform::GetApplicationPerformanceState failed not supported [Err:87]
+[2023.11.25-20.47.44:587][  0]LogCommunityPortalAppManager: FCommunityPortalEnumerateInstalledRunnable: Discovered 1 item files.
+[2023.11.25-20.47.44:587][  0]LogCommunityPortalAppManager: FCommunityPortalEnumerateInstalledRunnable: Loaded 1 sidecars in 0.0 secs
+[2023.11.25-20.47.44:587][  0]Manifest Check: 0x00000239C2CAD120 fn:4fe75bbc5a674f4f9b356b5c90567da5:Fortnite:++Fortnite+Release-27.11-CL-29739262-Windows CPAM Line: 3607 Desc: HandleInstalledManifestReceived 
+[2023.11.25-20.47.44:587][  0]LogCommunityPortalAppManager: FCommunityPortalAppManagerImpl: Found Installed Manifest for fn:4fe75bbc5a674f4f9b356b5c90567da5:Fortnite:++Fortnite+Release-27.11-CL-29739262-Windows
+[2023.11.25-20.47.44:587][  0]LogCommunityPortalAppManager: FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2023.11.25-20.47.44:587][  0]LogEOSInstallService: Detected valid EOS installation at path C:\Program Files (x86)\Epic Games\Epic Online Services\service\EpicOnlineServicesHost.exe.
+[2023.11.25-20.47.44:588][  0]LogEOSInstallService: EOS detected during initialization: true.
+[2023.11.25-20.47.44:588][  0]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-20.47.44:589][  0]Portal: Constructing App SysTrayPresentation Layer
+[2023.11.25-20.47.44:589][  0]Portal: Constructing App System Tray UI Layer
+[2023.11.25-20.47.44:598][  1]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-20.47.44:623][  2]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-20.47.45:433][ 26]LogSelfUpdateService: Launcher build response EpicGamesLauncher:EpicGamesLauncher:EpicGamesLauncher:15.18.1-29747304+++Portal+Release-Live-Windows.
+[2023.11.25-20.47.45:433][ 26]LogInit: AllCheckComplete 0 0 0 0
+[2023.11.25-20.47.45:433][ 26]LogInit: AllCheckComplete 1 0 0 0
+[2023.11.25-20.47.45:433][ 26]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2023.11.25-20.47.45:433][ 26]LogSelfUpdateService: Waiting for next version update.
+[2023.11.25-20.47.45:433][ 26]LogEmsContentProvider: Content build response EpicGamesLauncherContent:EpicGamesLauncherContent:EpicGamesLauncherContent:++Portal+Main+prod-CL-29894145-Windows.
+[2023.11.25-20.47.45:433][ 26]LogInit: AllCheckComplete 1 0 0 0
+[2023.11.25-20.47.45:500][ 28]LogOnlineIdentity: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2023.11.25-20.47.45:634][ 32]LogEmsContentProvider: Content build response EpicGamesLauncherContent:EpicGamesLauncherContent:EpicGamesLauncherContent:++Portal+Main+prod-CL-29894145-Windows.
+[2023.11.25-20.47.45:634][ 32]LogEmsContentProvider: Requesting content manifest.
+[2023.11.25-20.47.45:634][ 32]LogSelfUpdateService: Launcher build response EpicGamesLauncher:EpicGamesLauncher:EpicGamesLauncher:15.18.1-29747304+++Portal+Release-Live-Windows.
+[2023.11.25-20.47.45:634][ 32]LogInit: AllCheckComplete 1 0 0 0
+[2023.11.25-20.47.45:634][ 32]LogInit: AllCheckComplete 1 0 0 0
+[2023.11.25-20.47.45:634][ 32]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2023.11.25-20.47.45:634][ 32]LogSelfUpdateService: Waiting for next version update.
+[2023.11.25-20.47.45:634][ 32]LogInit: AllCheckComplete 1 0 0 0
+[2023.11.25-20.47.45:800][ 37]LogEmsContentProvider: Content manifest received.
+[2023.11.25-20.47.46:104][ 46]LogEmsContentProvider: Installer started.
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: InstallerId: A06394EC466ECB41D8A711B99EBC8218
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: ActionType: Install
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: CurrentManifest: NULL
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: InstallManifest: EpicGamesLauncherContent ++Portal+Main+prod-CL-29894145-Windows (dR_1LRJcC60W2B-XVaiMC6-Z6lw)
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: InstallTags: 
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: ValidTags: 
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: ValidTags: EAappInstaller
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: ValidTags: OriginThinSetup
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: InstallDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/EpicGamesLauncher/
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: StagingDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/stage/
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: BackupDirectory: 
+[2023.11.25-20.47.46:104][ 46]LogBPSInstallerConfig: Build Config: CloudDirectories: http://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2023.11.25-20.47.46:105][ 46]LogBPSInstallerConfig: Build Config: CloudDirectories: http://download.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2023.11.25-20.47.46:105][ 46]LogBPSInstallerConfig: Build Config: CloudDirectories: http://fastly-download.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2023.11.25-20.47.46:105][ 46]LogBPSInstallerConfig: Build Config: InstallMode: NonDestructiveInstall
+[2023.11.25-20.47.46:105][ 46]LogBPSInstallerConfig: Build Config: VerifyMode: ShaVerifyAllFiles
+[2023.11.25-20.47.46:105][ 46]LogBPSInstallerConfig: Build Config: DeltaPolicy: Skip
+[2023.11.25-20.47.46:105][ 46]LogBPSInstallerConfig: Build Config: bRunRequiredPrereqs: true
+[2023.11.25-20.47.46:105][ 46]LogBPSInstallerConfig: Build Config: bAllowConcurrentExecution: false
+[2023.11.25-20.47.46:105][ 46]LogBPSInstallerConfig: Build Config: DownloadRateLimitBps: 0
+[2023.11.25-20.47.46:171][ 48]LogBuildPatchServices: Starting Installation
+[2023.11.25-20.47.46:171][ 48]LogBuildPatchServices: Requiring 587 files
+[2023.11.25-20.47.46:171][ 48]LogBuildPatchServices: Detected previous staging completed, or existing files in target directory
+[2023.11.25-20.47.46:171][ 48]LogBuildPatchServices: Running backup and stage relocation
+[2023.11.25-20.47.46:171][ 48]LogBuildPatchServices: Relocation complete 1
+[2023.11.25-20.47.46:171][ 48]LogBuildPatchServices: Verifying install
+[2023.11.25-20.47.46:440][ 56]LogBuildPatchServices: Error: Build verification failed on 2 file(s)
+[2023.11.25-20.47.46:440][ 56]LogBuildPatchServices: Error: EBuildPatchInstallError::BuildVerifyFail BV05
+[2023.11.25-20.47.46:440][ 56]LogBuildPatchServices: Build verification error encountered: BV05: 2
+[2023.11.25-20.47.46:440][ 56]LogBuildPatchServices: Verify stage complete 0
+[2023.11.25-20.47.46:440][ 56]LogBuildPatchServices: Deleting staging area.
+[2023.11.25-20.47.46:473][ 57]LogBuildPatchServices: Reset MM.
+[2023.11.25-20.47.46:473][ 57]LogBuildPatchServices: Starting Installation
+[2023.11.25-20.47.46:473][ 57]LogBuildPatchServices: Requiring 2 files
+[2023.11.25-20.47.46:642][ 62]BuildPatchResumeData file found: false
+[2023.11.25-20.47.46:642][ 62]LogBuildPatchFileConstructor: Constructing file IQNACQCBMM7146P556GP43JK1JUMB6IF
+[2023.11.25-20.47.47:079][ 75]LogBuildPatchFileConstructor: Constructing file D7C0EFUAS0B06D67KRJ29E6AIHBRQ41E
+[2023.11.25-20.47.47:247][ 80]FAccountService::OnLoginComplete - 0 TRUE 35a5f5755f3a4a8686eee71c97f6ba12 
+[2023.11.25-20.47.47:247][ 80]Portal: Constructing User Data Access Layer
+[2023.11.25-20.47.47:247][ 80]Portal: Constructing User Domain Layer
+[2023.11.25-20.47.47:259][ 80]LogWebBrowser: Registering ContextId=userdomain.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(7bfa8b7a676841e6b48023913aad1794) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(9d11e621f1774e20ab41e077dcfc6726) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(efdbab32fbd34792b47acdab4a544e15) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(03f89c46c900491c8909d4bcef28898f) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(853e1fab9e8e4981b68b44702cd4de51) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(314f1e0b8aea49d98eb1e25454cf4488) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(0912834051454acc91da3cb2c0bf232b) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(1c95a571bdbe4d5790989ed9d81aecba) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(1e19a8b901364ba58898dc84db51bb96) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(a53695de856d489ba26b9ee240fc0769) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(b0d851f9651b4a5888922123563bfbd1) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(35ef1f5f526c4db6a6894794cf0b5e0f) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(7cdcc11febb24c7a89058580d7d35d95) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(9f36fa5c0acd4392b903e622a8339de0) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(20c1539905fd466b8b821ce48f8b8c95) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(388bd31c3dec4df8b525fc4405bae616) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(ba03e8dfc19e45b1a370f07ed399c887) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(1b576785bf00473daa66eb078a57a32e) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(60da1f4fc5c6425e8d528919af40459a) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(db2ac028dc1844f0a6ef62f9c5daee42) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(a0230f273974460c8b5f7975350d20f1) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(a6e024a657f84d4b976e5d7990c81bce) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(7b443be3671842eeb181cc61facfe301) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2023.11.25-20.47.47:260][ 80]LogRunningAppPresenceHandler: Display: No foreground apps with monitored presence: clearing override presence
+[2023.11.25-20.47.47:262][ 80]Portal: Constructing SysTrayUserPresentation Layer
+[2023.11.25-20.47.47:271][ 80]Portal: Constructing System Tray User UI Layer
+[2023.11.25-20.47.47:273][ 80]FAccountService::OnLoginChanged - LoggedIn 0
+[2023.11.25-20.47.47:273][ 80]LogOnlineParty: OSS: FOnlinePartySystemMcp::OnXmppLoginChanged - logged in user 35a5f5755f3a4a8686eee71c97f6ba12
+[2023.11.25-20.47.47:273][ 80]LogOnlineIdentity: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 35a5f5755f3a4a8686eee71c97f6ba12:prod.ol.epicgames.com:V2:launcher:WIN::B127E01B4E046E9D74F9AE994ED592E4 loggedin
+[2023.11.25-20.47.47:288][ 81]LogRunningAppPresenceHandler: Display: No foreground apps with monitored presence: clearing override presence
+[2023.11.25-20.47.47:290][ 81]LogInit: OnSignIn 1
+[2023.11.25-20.47.47:290][ 81]LogInit: AllCheckComplete 1 0 1 0
+[2023.11.25-20.47.47:383][ 84]LogBuildPatchServices: File construction complete
+[2023.11.25-20.47.47:450][ 86]LogBuildPatchServices: Staged install complete
+[2023.11.25-20.47.47:450][ 86]LogBuildPatchServices: Running backup and stage relocation
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Create MM
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Relocation complete 1
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Verifying install
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Verify stage complete 1
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Deleting staging area.
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Reset MM.
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: InstallerId: A06394EC466ECB41D8A711B99EBC8218
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumFilesInBuild: 587
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumFilesOutdated: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumFilesToRemove: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumChunksRequired: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ChunksQueuedForDownload: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ChunksLocallyAvailable: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ChunksInChunkDbs: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumChunksDownloaded: 2
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumChunksRecycled: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumChunksReadFromChunkDbs: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumFailedDownloads: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumBadDownloads: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumAbortedDownloads: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumRecycleFailures: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumChunksStoreBooted: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumDriveStoreChunkLoads: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumDriveStoreLoadFailures: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumChunkDbChunksFailed: 0
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: TotalDownloadedData: 1722107
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ActiveRequestCountPeak : 2
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: AverageDownloadSpeed: 3,413,311.922 bytes (3.413 MB, 3.255 MiB) /sec
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: PeakDownloadSpeed: 3,413,311.922 bytes (3.413 MB, 3.255 MiB) /sec
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: TotalReadData: 104334669
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: AverageDiskReadSpeed: 404,601,183.385 bytes (404.601 MB, 385.857 MiB) /sec
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: PeakDiskReadSpeed: 404,601,183.385 bytes (404.601 MB, 385.857 MiB) /sec
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: TotalWrittenData: 329614
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: AverageDiskWriteSpeed: 242,791,691.22 bytes (242.791 MB, 231.544 MiB) /sec
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: PeakDiskWriteSpeed: 242,791,691.22 bytes (242.791 MB, 231.544 MiB) /sec
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumFilesConstructed: 2
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: InitializeTime: 220 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: TheoreticalDownloadTime: 504 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ConstructTime: 751 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: UninstallActionTime: 0 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: MoveFromStageTime: 14 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: FileAttributesTime: 11 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: VerifyTime: 282 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: CleanUpTime: 2 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: PrereqTime: 0 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ProcessPausedTime: 0 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ProcessActiveTime: 1.35 sec
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ProcessExecuteTime: 1.35 sec
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ProcessSuccess: TRUE
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ErrorCode: OK
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: FailureReasonText: The operation was successful.
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: FailureType: NoError
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: NumInstallRetries: 1
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: RetryFailureType 0: BuildVerifyFail
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: RetryErrorCodes 0: BV05
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: FinalProgressValue: 1.000000
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: OverallRequestSuccessRate: 1.000000
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ExcellentDownloadHealthTime: 323 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: GoodDownloadHealthTime: 0 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: OkDownloadHealthTime: 0 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: PoorDownloadHealthTime: 431 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: DisconnectedDownloadHealthTime: 0 ms
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: AverageMemoryStoreUse: 0.5
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: PeakMemoryStoreUse: 1
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: AverageMemoryStoreRetained: 0.5
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: PeakMemoryStoreRetained: 1
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: MemoryStoreSize: 336
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ProcessRequiredDiskSpace: 329614
+[2023.11.25-20.47.47:483][ 87]LogBuildPatchServices: Build Stat: ProcessAvailableDiskSpace: 697004212224
+[2023.11.25-20.47.47:483][ 87]LogEmsContentProvider: Installer complete. Success:1.
+[2023.11.25-20.47.47:499][ 87]LogEmsService: ChangedFile: BuildNotificationsV2.json
+[2023.11.25-20.47.47:499][ 87]LogEmsService: ChangedFile: NamedLinksV2.json
+[2023.11.25-20.47.47:499][ 87]LogEmsContentProvider: EMS setup completed with alert code: ok
+[2023.11.25-20.47.47:499][ 87]LogEmsContentProvider: Waiting for next version update.
+[2023.11.25-20.47.47:499][ 87]LogInit: AllCheckComplete 1 1 1 0
+[2023.11.25-20.47.47:499][ 87]LogInit: Startup::ClearAllChecks
+[2023.11.25-20.47.47:501][ 87]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2023.11.25-20.47.47:506][ 87]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2023.11.25-20.47.47:506][ 87]WinPlatform: Found matching shortcut: false
+[2023.11.25-20.47.47:506][ 87]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2023.11.25-20.47.47:507][ 87]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2023.11.25-20.47.47:507][ 87]WinPlatform: Found matching shortcut: false
+[2023.11.25-20.47.47:507][ 87]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2023.11.25-20.47.47:508][ 87]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2023.11.25-20.47.47:508][ 87]WinPlatform: Found matching shortcut: false
+[2023.11.25-20.47.47:508][ 87]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2023.11.25-20.47.47:509][ 87]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2023.11.25-20.47.47:509][ 87]WinPlatform: Found matching shortcut: true
+[2023.11.25-20.47.47:509][ 87]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2023.11.25-20.47.47:514][ 87]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2023.11.25-20.47.47:514][ 87]WinPlatform: Found matching shortcut: false
+[2023.11.25-20.47.47:514][ 87]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2023.11.25-20.47.47:515][ 87]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2023.11.25-20.47.47:515][ 87]WinPlatform: Found matching shortcut: false
+[2023.11.25-20.47.47:515][ 87]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2023.11.25-20.47.47:515][ 87]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2023.11.25-20.47.47:515][ 87]WinPlatform: Found matching shortcut: false
+[2023.11.25-20.47.47:515][ 87]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2023.11.25-20.47.47:516][ 87]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2023.11.25-20.47.47:516][ 87]WinPlatform: Found matching shortcut: true
+[2023.11.25-20.47.47:717][ 94]FAppDiscoveryService: No appid specified
+[2023.11.25-20.47.48:287][111]LogInMessageService: Warning: HandleEpicConnectMessage(): Unrecognized message type 'core.connect.v1.connected'
+[2023.11.25-20.47.49:089][135]FAppDiscoveryService: No appid specified
+[2023.11.25-20.47.53:394][265]LogSlate: Request Window '' being destroyed
+[2023.11.25-20.56.44:606][ 44]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.01.44:608][868]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.06.44:623][771]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.11.44:620][676]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.16.44:641][585]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.21.44:679][489]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.26.44:701][347]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.31.44:685][171]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.36.44:725][ 45]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.41.44:757][930]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.46.44:770][810]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.51.44:791][694]LogEOSMessageService: Error: Unable to find port.
+[2023.11.25-21.56.44:785][596]LogEOSMessageService: Error: Unable to find port.
